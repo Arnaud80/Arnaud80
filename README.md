@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Arnaud DUHAMEL - IT Team Leader @Decathlon
+- 👋 Hi, I’m Arnaud DUHAMEL - Sotfware Engineering Manager @Decathlon
 - 👀 I’m interested in developpement and all computing stuff
-- 🌱 I’m currently learning Java, ReactJS, TDD (Jest), CI/CD (Action Git, SonarCloud)
+- 🌱 I’m currently learning Java, ReactJS, BDD/TDD (Gherkin, Cucumber, Jest), CI/CD (Git Actions, SonarCloud)
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me on [Twiter](https://twitter.com/Arnaud_Duhamel) and [Linkedin](https://www.linkedin.com/in/arnaud-duhamel-0123a51b/)
 
